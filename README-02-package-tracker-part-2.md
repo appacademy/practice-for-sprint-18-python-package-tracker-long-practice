@@ -58,7 +58,10 @@ algorithm should tell you to take the shorter distance path: ['Seattle',
 
 A second test case exists which may be easier to follow along with. It includes 
 six points, A through F, with a diagram showing their distances. Make sure that 
-these test cases pass using the 
+these test cases pass using the new `find_shortest_path_dij` function and the test 
+cases provided in the `map.py` file.
+
+Congrats you are now done with this project, hope you enjoyed it!
 
 [1]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 [2]: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
