@@ -114,6 +114,12 @@ different.
 ALSO NOTE: Any origin can go to any destination.  The value side of the 
 key-value pair is used for a progression algorithm later in the project.
 
+TO TEST: To test your list comprehension for your `SelectField` run:
+
+```sh
+pipenv run pyhon -m app.shipping_form
+```
+
 Import `DataRequired` from `wtforms.validators` and use it to make all fields
 mandatory.
 
