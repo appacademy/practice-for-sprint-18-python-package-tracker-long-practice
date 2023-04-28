@@ -117,7 +117,7 @@ key-value pair is used for a progression algorithm later in the project.
 TO TEST: To test your list comprehension for your `SelectField` run:
 
 ```sh
-pipenv run pyhon -m app.shipping_form
+pipenv run python -m app.shipping_form
 ```
 
 Import `DataRequired` from `wtforms.validators` and use it to make all fields
